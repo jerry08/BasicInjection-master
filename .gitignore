@@ -1,0 +1,10 @@
+Release/
+Debug/
+x64/
+BasicInjection/x64/
+rdi.ncb
+rdi.suo
+rdi.sdf
+rdi.opensdf
+rdi.v11.suo
+/.vs/BasicInjection
